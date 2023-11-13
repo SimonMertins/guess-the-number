@@ -4,11 +4,27 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--FontAwesome-->
+    <script src="https://kit.fontawesome.com/c0f01daf49.js" crossorigin="anonymous"></script>
 
     <link rel="stylesheet" href="assets/css/style.css">
     <title>Document</title>
 </head>
 <body>
+    <h1 class="header"><i class="fa-solid fa-dice"></i>Guess The Number</h1>
+
+    <div class="game-div">
+        <p>Guess thee number! Enter a number between 1-6 and press submit to see if you guessed the right number.</p>
+        <div class="control-div">
+
+            <p class="answer-message">Enter Number:</p>
+            <input id="answer-box" type="number">
+
+            <button data-type="submit">Submit!</button>
+
+        </div>
+
+    </div>
 
     <script src="assets/js/script.js"></script>
 </body>
