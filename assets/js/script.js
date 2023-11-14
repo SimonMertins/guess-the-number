@@ -32,6 +32,7 @@ document.addEventListener('DOMContentLoaded', function () {
         // Update the scores
         scoreElement.textContent = correctGuesses;
         incorrectElement.textContent = incorrectGuesses;
+
   
         // Reset the answer box for the next guess
         answerBox.value = '';
