@@ -34,6 +34,14 @@ document.addEventListener('DOMContentLoaded', function () {
             } else {
                 // Incorrect guess
                 incorrectGuesses++;
+
+                // Show the correct number
+                const correctNumberElement = document.getElementById('correct-number');
+                correctNumberElement.textContent = correctNumber;
+    
+                // Show the correct number message
+                const correctNumberMessage = document.querySelector('.correct-number-message');
+                correctNumberMessage.style.display = 'block';
             }
     
             // Update the scores
