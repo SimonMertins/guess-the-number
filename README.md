@@ -5,6 +5,7 @@ It is a fun and easy game that updates your score after every guess. It also sho
 The site is responsive so it dosen't matter if you are using your phone, tablet of computer.
 
 If you have some minutes to spare, then this is the game for you!
+
 [Guess The Number](https://simonmertins.github.io/guess-the-number/)
 ![Screenshot of the site on diffrent screen sizes.](/assets/images/ui.dev.png)
 
@@ -64,6 +65,13 @@ So now there is no warings or errors.
 1. And after that the site automatically deploys.
 
 A link to the live website: (https://simonmertins.github.io/guess-the-number/)
+
+## Credits
+* The [Love math](https://github.com/SimonMertins/love-maths/tree/main) helped me with inspiration and with a few syntax question.
+
+### Content
+* The icon in the heading are from [Font awesome](https://fontawesome.com)
+
 
 
 
