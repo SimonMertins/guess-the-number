@@ -81,6 +81,8 @@ Languages used on this website:
 
 * [Slack](https://slack.com/intl/en-gb/) Community.
 
+* [Am I Responsive](https://ui.dev/amiresponsive)
+
 * Google Chrome Developer tool.
 
 ## Credits
