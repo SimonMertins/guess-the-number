@@ -66,8 +66,31 @@ So now there is no warings or errors.
 
 A link to the live website: (https://simonmertins.github.io/guess-the-number/)
 
+## Languages
+Languages used on this website:
+1. HTML
+1. CSS
+1. JavaScript
+
+## Technologies used
+* [CodeAnywhere](https://codeanywhere.com) Cloud IDE.
+
+* [VS code](https://code.visualstudio.com) IDE.
+
+* [GitHub](https://github.com) Deployment and repository.
+
+* [Slack](https://slack.com/intl/en-gb/) Community.
+
+* Google Chrome Developer tool.
+
 ## Credits
 * The [Love math](https://github.com/SimonMertins/love-maths/tree/main) helped me with inspiration and with a few syntax question.
+
+* [W3 Schools](https://www.w3schools.com) were very helpful.
+
+* Code Institute
+
+* [ChatGPT](https://chat.openai.com) to troubleshoot
 
 ### Content
 * The icon in the heading are from [Font awesome](https://fontawesome.com)
