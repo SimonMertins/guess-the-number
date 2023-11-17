@@ -1,3 +1,4 @@
+/* jshint esversion: 6 */
 // Let DOM content load first
 document.addEventListener('DOMContentLoaded', function () {
 
