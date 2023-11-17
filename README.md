@@ -9,6 +9,21 @@ If you have some minutes to spare, then this is the game for you!
 [Guess The Number](https://simonmertins.github.io/guess-the-number/)
 ![Screenshot of the site on diffrent screen sizes.](/assets/images/ui.dev.png)
 
+## Tabel of Content
+* [Guess The Number](#guess-the-number)
+
+* [Features](#features)
+
+* [Testing](#testing)
+
+* [Deployment](#deployment)
+
+* [Languages](#languages)
+
+* [Technologies Used](#technologies-used)
+
+* [Credits](#credits)
+
 ## Features
 
 ### Heading
@@ -72,7 +87,7 @@ Languages used on this website:
 1. CSS
 1. JavaScript
 
-## Technologies used
+## Technologies-used
 * [CodeAnywhere](https://codeanywhere.com) Cloud IDE.
 
 * [VS code](https://code.visualstudio.com) IDE.
@@ -96,10 +111,4 @@ Languages used on this website:
 
 ### Content
 * The icon in the heading are from [Font awesome](https://fontawesome.com)
-
-
-
-
-
-
 
